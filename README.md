@@ -1,5 +1,5 @@
-# FunWithTensorFlow
-Contains all the notebooks that I use to tinker with TensorFlow 2.0
+# Fun with TensorFlow
+Contains all the notebooks that I use to tinker with TensorFlow 2.0. Title is definitely not inspired from Sheldon's show on TBBT. ;D
 
 Notebook | Short Description
 --- | ---
